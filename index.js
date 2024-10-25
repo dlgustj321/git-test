@@ -12,7 +12,7 @@ function multiply(a,b)
   return a*b
 }
 
-function divide(a,b)
+function divide2(a,b)
 {
   return a/b;
 }
